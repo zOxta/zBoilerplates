@@ -1,0 +1,15 @@
+{
+  "name": "zBoilerplate",
+  "version": "0.0.1",
+  "descriotion": "A quick boilerplate that uses Bootstrap 3, Paper Material Theme, AngularJS, ngFx and Bower.",
+  "authors": [
+    "zOxta"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "test",
+    "tests"
+  ]
+}
